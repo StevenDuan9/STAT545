@@ -1,0 +1,12 @@
+name: assignmentB4
+title: assignmentB4
+username: stevenduan
+account: stevenduan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10718038
+bundleId: 8007990
+url: https://stevenduan.shinyapps.io/assignmentB4/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
