@@ -1,3 +1,4 @@
+# This folder contains partial coding assignments of this course.
 # Assignment B-3 & B-4: Creat and improve a Shiny App
 This repository is created to complete Assignment B3 & B4 as a part of STAT 545B course in UBC.
 ## Link:
